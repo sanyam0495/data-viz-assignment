@@ -1,0 +1,7 @@
+{
+  "prompt": "Macro underwater photography, deep dark blue abyss, a single glowing jellyfish swimming upwards. The bell of the jellyfish is seamlessly formed by a crumpled, translucent single-use grocery plastic bag. The tentacles are made of tangled, fraying synthetic fishing lines and microplastic threads. Ethereal, haunting, cinematic lighting, hyper-realistic texture, National Geographic style, evoking a sense of tragic suffocation and the replacement of nature with synthetic waste.",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "Global Plastic Waste by Disposal Method",
+  "dataset_url": "https://ourworldindata.org/plastic-pollution",
+  "insight": "Millions of tons of plastic are silently infiltrating marine ecosystems, turning living oceans into synthetic graveyards."
+}
