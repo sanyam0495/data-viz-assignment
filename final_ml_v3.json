@@ -1,0 +1,6 @@
+{
+  "prompt": "A high-angle, highly realistic photograph of a simple, grassy public park. Instead of a smooth, logical walking path, a heavy stone paved path violently and absurdly zig-zags, loops, and contorts across the lawn. The path makes dramatic, sharp detours specifically to pave over random, temporary pieces of debris on the grass—a single fallen leaf, a dropped paper cup, a lost sneaker. The overall route entirely misses the obvious, smooth natural curve between the park gates, showing an obsessive, unnatural connection of random points. Shot on 35mm lens, natural daylight, hyper-realistic, conveying a feeling of rigid, absurd obsession.",
+  "model": "Gemini 3 Flash Image",
+  "concept": "Overfitting",
+  "metaphor": "A zig-zagging path connecting random trash instead of the logical route, mirroring a model that memorizes training noise rather than the true underlying pattern."
+}
